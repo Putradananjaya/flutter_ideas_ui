@@ -4,4 +4,4 @@
 The Mobile Application Display has one page, one for the performance page which will display all kinds of impressions with the existing categories. The interesting thing about the appearance of this application is the animation when sliding from one page to another.
 
 ## Ideas App Final UI!
-(https://user-images.githubusercontent.com/38379100/164869026-8e91b940-9993-4522-a684-7210fbc19272.png)
+![UI IDEAS](https://user-images.githubusercontent.com/38379100/164869060-bcd1bb79-9489-4dd5-a259-526aa6b1a910.png)
