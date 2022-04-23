@@ -1,16 +1,7 @@
-# flutter_idea_app
+# Mobile Interface Flutter - Ideas
 
-A new Flutter project.
+## Introduction
+The Mobile Application Display has one page, one for the performance page which will display all kinds of impressions with the existing categories. The interesting thing about the appearance of this application is the animation when sliding from one page to another.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Ideas App Final UI!
+[UI IDEAS](https://user-images.githubusercontent.com/38379100/164869026-8e91b940-9993-4522-a684-7210fbc19272.png)
